@@ -4,4 +4,4 @@ It is a Django app with appropriate model to store information like Title, Descr
 I have created these backend project using Django rest framework and used CRUD operations.
 
 To run the project install all requirements from requirement.txt 
-and write python manage.py runserver
+and write python manage.py runserver on terminal.
