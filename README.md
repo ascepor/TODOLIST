@@ -5,3 +5,5 @@ I have created these backend project using Django rest framework and used CRUD o
 
 To run the project install all requirements from requirement.txt 
 and write python manage.py runserver on terminal.
+
+To perform different operation you need to add something after URl these will be seen in url.py
